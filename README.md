@@ -1,20 +1,19 @@
-
-<img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark" />
 
 ### Hi there 👋
 
-I am a technical lead in software engineer, amateur bmx racing athlete.
-And I also maintain a parallel retail trade.
+I am a technical lead in software engineering, a small entrepreneur and amateur athlete in bmx racing.
 
-How about take a look at this amazing store. 😄
+Here you will find a little bit of my work on demos and some cool projects.  
+Feel free to explore and re-use any of my projects 😉
 
-### My enterprise
+#### My retail business
 https://www.camarotedotorcedor.com.br
 
-
+#### Follow me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heliomarpm)](https://www.linkedin.com/in/heliomarpm)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/heliomarbmx)](https://twitter.com/heliomarbmx)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
+&nbsp;&nbsp;&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
 
 <!--
 ## My repositories content 
