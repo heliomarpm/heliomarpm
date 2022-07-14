@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
-I am a technical lead in software engineering, a small entrepreneur and amateur athlete in bmx racing 😁🏆🚴‍♂️.
+I,m a technical lead in software engineering, part of my free time I work on open source projects. 
+I am also a small entrepreneur and amateur bmx racing athlete. 😁🏆🚴‍♂️
 
-Here you will find a little bit of my work on demos and some cool projects.  
+Here you will find a little bit of my work on demos and some cool projects, something might be useful to you, I would appreciate it if you could collaborate on any.🤝
+
 Feel free to explore and re-use any of my projects 😉
 
 [My Gist Repository](https://gist.github.com/heliomarpm)
