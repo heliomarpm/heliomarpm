@@ -21,6 +21,8 @@ https://www.camarotedotorcedor.com.br
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/heliomarbmx)](https://twitter.com/heliomarbmx)
 &nbsp;&nbsp;&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
 
+<!-- (https://komarev.com/ghpvc/?username=heliomarpm&label=Profile%20views&color=8042fc&style=plastic") -->
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
