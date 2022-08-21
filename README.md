@@ -1,4 +1,8 @@
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark" />
+
+<a href="http://www.github.com/heiomarpm">
+   <img align="right" height="180em" alt="heiomarpm gitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark&count_private=true&hide_border=false&bg_color=000&title_color=green&icon_color=green"/>
+</a>
 
 ### Hi there 👋
 
