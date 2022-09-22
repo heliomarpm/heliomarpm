@@ -6,8 +6,8 @@
 
 ### Hi there 👋
 
-I,m a technical lead in software engineering with over 20 years of experience.   
-Part of my spare time I work on open source projects and I am also a small business owner and amateur BMX Racing athlete. 😁🏆🚴‍♂️
+I am a small entrepreneur and technical leader in software engineering with over 20 years of experience.    
+I'm also a BMX Racing athlete, who uses some of my free time to train and work on open source projects. 😁🏆🚴‍♂️
 
 Here you will find a little bit of my work on demos and some cool projects, something might be useful to you, I would appreciate it if you could collaborate on any.🤝
 
