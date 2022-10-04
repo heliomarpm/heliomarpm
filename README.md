@@ -4,8 +4,10 @@
         src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark&count_private=true&hide_border=false&bg_color=000&title_color=green&icon_color=green"/>
 </a>
 
-### Hi there 👋
+<h1 align="left">👋 Hello, welcome!</h1>
 
+
+## 💫 About Me:
 I am a small entrepreneur and technical leader in software engineering with over 20 years of experience.    
 I'm also a BMX Racing athlete, who uses some of my free time to train and work on open source projects. 😁🏆🚴‍♂️
 
@@ -13,22 +15,30 @@ Here you will find a little bit of my work on demos and some cool projects, some
 
 Feel free to explore and re-use any of my projects 😉
 
-[My Gist Repository](https://gist.github.com/heliomarpm)
+[My Gist Repository](https://gist.github.com/heliomarpm) 
 
 [GitShowcase](https://www.gitshowcase.com/heliomarpm)
 
+<!--
 #### My retail business
 https://www.camarotedotorcedor.com.br
+-->
 
 #### Follow me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heliomarpm)](https://www.linkedin.com/in/heliomarpm)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/heliomarbmx)](https://twitter.com/heliomarbmx)
-&nbsp;&nbsp;&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
+&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
 
-<!-- (https://komarev.com/ghpvc/?username=heliomarpm&label=Profile%20views&color=8042fc&style=plastic") -->
+<!--
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/heliomarbmx)](https://twitter.com/heliomarbmx)-->
+
+<!--
+ (https://komarev.com/ghpvc/?username=heliomarpm&label=Profile%20views&color=8042fc&style=plastic")
+-->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-contribution-grid-snake.svg)
-
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--
