@@ -35,11 +35,32 @@ https://www.camarotedotorcedor.com.br
  (https://komarev.com/ghpvc/?username=heliomarpm&label=Profile%20views&color=8042fc&style=plastic")
 -->
 
-### ✍️ Random Dev Quote
+#### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## ⚡ Recent GitHub Activity
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-contribution-grid-snake.svg)
+
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+<!--
+<p align="center">
+   <img alt="heliomarpm's Activity Graph" 
+         src="https://activity-graph.herokuapp.com/graph?username=heliomarpm&custom_title=heliomarpm's%20Contribution%20Graph&theme=react-dark" 
+          height="200" />
+</p> 
+-->
+  
+<!--
+## :trophy: Git profile Trophies
+
+<p align="center">
+   <a href="https://github.com/heliomarpm">
+      <img src="https://github-profile-trophy.vercel.app/?username=heliomarpm&layout=compact&theme=algolia" alt="heliomarpm" height="80%" />
+   </a>   
+</p>
+-->
 
 <!--
 ## My repositories content 
