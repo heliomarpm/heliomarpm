@@ -1,8 +1,9 @@
 
-<a href="http://www.github.com/heliomarpm" target="_blank">
+<!-- <a href="http://www.github.com/heliomarpm" target="_blank">
    <img align="right" height="180em" alt="heliomarpm gitHub stats"
         src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark&count_private=true&hide_border=false&bg_color=000&title_color=green&icon_color=green"/>
 </a>
+-->
 
 <h1 align="left">👋 Hello, welcome!</h1>
 
