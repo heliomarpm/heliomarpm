@@ -39,11 +39,11 @@ https://www.camarotedotorcedor.com.br
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<!--
 ## ⚡ Recent GitHub Activity
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-contribution-grid-snake.svg)
-
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+-->
 
 <!--
 <p align="center">
@@ -55,7 +55,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   
 <!--
 ## :trophy: Git profile Trophies
-
 <p align="center">
    <a href="https://github.com/heliomarpm">
       <img src="https://github-profile-trophy.vercel.app/?username=heliomarpm&layout=compact&theme=algolia" alt="heliomarpm" height="80%" />
@@ -70,6 +69,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark" />
 </div>
 -->
+
 
 <!--
 **heliomarpm/heliomarpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
