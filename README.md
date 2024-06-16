@@ -16,9 +16,10 @@ Here you will find a little bit of my work on demos and some cool projects, some
 
 Feel free to explore and re-use any of my projects 😉
 
+<!--
 [My Gist Repository](https://gist.github.com/heliomarpm) 
-
 [GitShowcase](https://www.gitshowcase.com/heliomarpm)
+-->
 
 <!--
 #### My retail business
@@ -27,7 +28,7 @@ https://www.camarotedotorcedor.com.br
 
 #### Follow me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heliomarpm)](https://www.linkedin.com/in/heliomarpm)
-&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
+&nbsp;<a href="https://navto.me/heliomarpm" target="_blank"><img src="https://navto.me/assets/navigatetome-brand.png" width="32"/></a>&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm)
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/heliomarbmx)](https://twitter.com/heliomarbmx)-->
