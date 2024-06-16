@@ -1,7 +1,7 @@
 
 <a href="http://www.github.com/heliomarpm" target="_blank">
    <img align="right" height="180em" alt="heliomarpm gitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark&bg_color=1a1b27&title_color=green&icon_color=green&count_private=true&hide_border=false"/> <!-- &rank_icon=percentile"/> -->
+        src="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&theme=dark&bg_color=0b0f14&title_color=green&icon_color=green&count_private=true&hide_border=false"/> <!-- &rank_icon=percentile"/> -->
 </a>
 
 
@@ -37,7 +37,7 @@ https://www.camarotedotorcedor.com.br
  (https://komarev.com/ghpvc/?username=heliomarpm&label=Profile%20views&color=8042fc&style=plastic")
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliomarpm&layout=compact&theme=dark&bg_color=1a1b27)](https://github.com/hliomarpm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliomarpm&layout=compact&theme=dark&bg_color=0b0f14)](https://github.com/hliomarpm)
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
