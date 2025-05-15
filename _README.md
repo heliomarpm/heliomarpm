@@ -13,7 +13,7 @@ I'm also a BMX Racing athlete, who uses some of my free time to train and work o
 
 Here you will find a little bit of my work on demos and some cool projects, something might be useful to you, I would appreciate it if you could collaborate on any.🤝
 
-Feel free to explore and re-use any of my projects 😉
+Feel free to explore and re-use any of my projects 😉 
 
 <!--
 [My Gist Repository](https://gist.github.com/heliomarpm) 
