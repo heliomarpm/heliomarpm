@@ -6,6 +6,7 @@ Sou **engenheiro de software**, **tech lead** e pós-graduado em **arquitetura d
 Fora do código, sou piloto amador de **BMX Racing 🚴‍♂️**, praticante desde o final dos anos 80. 😎
 <br><br>
 
+
 <div align="center">
 
 <a href="https://navto.me/heliomarpm" target="_blank"><img src="https://navto.me/assets/navigatetome-brand.png" width="32"/></a>&nbsp;&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=heliomarpm&right_color=Chocolate)
