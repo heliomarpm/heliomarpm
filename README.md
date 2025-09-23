@@ -1,9 +1,9 @@
 
 ## 💫 Sobre mim
 
-Sou **engenheiro de software**, **tech lead** e pós-graduado em **arquitetura de software e soluções**. Com mais de **20 anos de experiência**, sigo aprendendo, desenvolvendo e compartilhando conhecimentos sobre tecnologia. Para mim, programar é mais que profissão — é um estilo de vida.
+Engenheiro de software com pós-graduação em arquitetura de software e soluções, atuando atualmente como tech lead. Ao longo de mais de 20 anos de carreira, venho construindo sistemas, liderando equipes e compartilhando conhecimento com a comunidade. Acredito que programar vai além da técnica — é uma forma de pensar, criar e transformar.
 
-Fora do código, sou piloto amador de **BMX Racing 🚴‍♂️**, praticante desde o final dos anos 80. 😎
+E quando não estou mergulhado em tecnologia, estou nas pistas como piloto amador de BMX Racing 🚴‍♂️, paixão que cultivo desde os anos 90. 😎
 <br><br>
 
 <div align="center">
@@ -24,4 +24,5 @@ Fora do código, sou piloto amador de **BMX Racing 🚴‍♂️**, praticante d
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=heliomarpm&right_color=DarkGoldenrod"> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=heliomarpm&style=for-the-badge&color=orange"> -->
 </div>
+
 
