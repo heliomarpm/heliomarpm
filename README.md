@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd6f2b&height=120&section=header"/>
 
 ## 💫 Sobre mim
 
@@ -25,4 +26,4 @@ E quando não estou mergulhado em tecnologia, estou nas pistas como piloto amado
   <!-- <img src="https://komarev.com/ghpvc/?username=heliomarpm&style=for-the-badge&color=orange"> -->
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd6f2b&height=120&section=footer"/>
