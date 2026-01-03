@@ -17,13 +17,15 @@ E quando não estou mergulhado em tecnologia, estou nas pistas como piloto amado
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-snake.svg">
   </picture>
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=heliomarpm&show_icons=true&hide_title=false&count_private=true&theme=darcula&hide_border=true&bg_color=0b0f1400&hide=issues,contribs&locale=pt-BR"> <!--&hide=issues,contribs&rank_icon=github-->
-
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=heliomarpm&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&locale=pt-BR&langs_count=8&hide=jupyter%20notebook,tex,css,scss">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=heliomarpm&theme=darcula&hide_border=true&background=FFFFFF00&locale=pt-BR">
+  <img height="50%" width="auto" src ="https://github-readme-stats-fast.vercel.app/api?username=heliomarpm&show_icons=true&hide_title=false&count_private=true&theme=darcula&hide_border=true&bg_color=0b0f1400&hide=issues,contribs&locale=pt-BR"> <!--&hide=issues,contribs&rank_icon=github-->
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=heliomarpm&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&locale=pt-BR&langs_count=8&hide=jupyter%20notebook,tex,css,scss">
+  <!-- EDIT: https://streak-stats.demolab.com/demo/ -->
+  <img src ="https://streak-stats.demolab.com?user=heliomarpm&theme=dracula&hide_border=true&locale=pt_BR&background=FFFFFF00">
 
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=heliomarpm&right_color=DarkGoldenrod"> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=heliomarpm&style=for-the-badge&color=orange"> -->
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd6f2b&height=120&section=footer"/>
+
